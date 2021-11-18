@@ -31,12 +31,6 @@ Once you arrive on the home page you can either seach for books or creat a profi
 Screenshots below:</b>
 
 <img src="./images/Screenshot1.png"></b>
-<img src=""></b>
-<img src=""></b>
-
-
-
-
 
 
 ## Questions
