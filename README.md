@@ -1,8 +1,6 @@
 # Book Search Engine
 
-
-
-
+Are you a fan of books? This application allows you to search for books and store them to your profile!
 
 ## Table of Contents
 * [Npm Packages](#Npm-Packages/Dependencies)
@@ -21,18 +19,18 @@
 * Bootstrap
  
 ## Application
-Here's the link for the deployed application hosted on [Heroku]().
+Here's the link for the deployed application hosted on [Heroku](https://sheltered-plateau-60223.herokuapp.com/).
 
 
 ## Usgae
 
-
+Once you arrive on the home page you can either seach for books or creat a profile. You can't save book you've searched unless you create a profile. 
 
 ## Test
 
 Screenshots below:</b>
 
-<img src=""></b>
+<img src="./images/Screenshot1.png"></b>
 <img src=""></b>
 <img src=""></b>
 
